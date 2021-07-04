@@ -18,7 +18,7 @@ Initialize your LineageOS workspace:
 Clone the modified treble patches and this repo:
 
     git clone https://github.com/AndyCGYan/treble_patches -b lineage-18.1
-    git clone https://github.com/AndyCGYan/treble_build_los -b lineage-18.1
+    git clone https://github.com/Elenedeath/treble_build_los -b lineage-18.1
 
 Finally, start the build script:
 
